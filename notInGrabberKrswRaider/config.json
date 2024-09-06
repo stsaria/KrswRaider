@@ -1,4 +1,5 @@
 {
     "token_format":true,
-    "startime":true
+    "startime":true,
+    "capmon_api_key":false
 }

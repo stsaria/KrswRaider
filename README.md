@@ -12,6 +12,7 @@ If you want to use it, please use it.
 ### Required Files
 - tokens.txt   File to store Discord tokens.
 - proxys.txt   File to store proxies used in vandalism (Whoever created this may be an idiot, even though it is "proxies" and not "proxies").
+The contents of the above files are separated by a new line.
 - config.json  I'm not sure, but it's a file that stores some settings.
   ```
   {
@@ -20,4 +21,3 @@ If you want to use it, please use it.
   }
   ```
   Config Example.
-The contents of the above files are separated by a new line.

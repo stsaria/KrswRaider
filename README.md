@@ -11,7 +11,7 @@ For this reason, we also have the source code for Krsw Raider without Grabber in
 If you want to use it, please use it.
 ### Required Files
 - tokens.txt   File to store Discord tokens.
-- proxys.txt   File to store proxies used in vandalism (Whoever created this may be an idiot, even though it is "proxies" and not "proxies").
+- proxys.txt   File to store proxies used in troll (Whoever created this may be an idiot, even though it is "proxies" and not "proxys").
 - config.json  I'm not sure, but it's a file that stores some settings.
   ```
   {
